@@ -1,3 +1,7 @@
+
+![image](https://github.com/user-attachments/assets/92577af6-2cac-47dc-9957-19f04de0d789)
+
+
 # 🧠 SecGPT – Assistant IA pour analystes SOC
 
 <p align="center">
